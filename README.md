@@ -1,6 +1,6 @@
 
 ## Olá!👋
-<br>Eu sou a Mayara, Analista de testes (QA)&nbsp;
+<br>Eu sou a Mayara, Analista de testes (QA)!&nbsp;
 
 
  
