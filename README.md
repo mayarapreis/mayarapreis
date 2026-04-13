@@ -47,7 +47,7 @@ Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
 &nbsp;
 &nbsp;
 
-## Contacts:
+## 📫 Contato
 
 <div> 
 <a href="https://www.linkedin.com/in/mayarapreis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
