@@ -15,6 +15,14 @@
 ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
+![vscode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
+![Robot](https://img.shields.io/badge/-robot%20framework-000000?logo=robotframework&logoColor=white&style=for-the-badge)&nbsp;
+![Playwright](https://img.shields.io/badge/-Playwright-34A853?logo=playwright&logoColor=orange&style=for-the-badge)&nbsp;
+![k6](https://img.shields.io/badge/-K6-7D64FF?logo=k6&logoColor=white&style=for-the-badge)&nbsp;
+![jmeter](https://img.shields.io/badge/-jmeter-D22128?logo=apache%20jmeter&logoColor=white&style=for-the-badge)&nbsp;
+![githubactions](https://img.shields.io/badge/-github%20actions-2088FF?logo=github%20actions&logoColor=white&style=for-the-badge)&nbsp;
+![postman](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)&nbsp;
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
