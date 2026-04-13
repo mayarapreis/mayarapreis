@@ -1,11 +1,11 @@
 
 ## Olá!👋
 <br>Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
-
+<br>
 ## 🚀 Sobre mim
 <br>-Experiência com testes E2E e API
 <br>-Foco em qualidade e melhoria contínua.
-
+<br>
 ## 🧪 Stack principal
 
 ![Robot](https://img.shields.io/badge/-robot%20framework-000000?logo=robotframework&logoColor=white&style=for-the-badge)&nbsp;
@@ -32,7 +32,7 @@
 ![postman](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 
-
+<br>
 
 
 
