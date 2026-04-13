@@ -1,10 +1,10 @@
 
 ## 👋 Olá!
-Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
+Eu sou Mayara, Analista de QA com foco em automação de testes.&nbsp;
 <br>
 <br>
 ## 🚀 Sobre mim
--Experiência com testes E2E e API
+-Experiência com testes E2E e API;
 <br>-Foco em qualidade e melhoria contínua.
 <br>
 <br>
@@ -34,15 +34,15 @@ Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
 ![vscode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
-
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 <br>
 <br>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
 
 &nbsp;
 &nbsp;
