@@ -1,9 +1,9 @@
 
 ## Olá!👋
-<br>Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
+Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
 <br>
 ## 🚀 Sobre mim
-<br>-Experiência com testes E2E e API
+-Experiência com testes E2E e API
 <br>-Foco em qualidade e melhoria contínua.
 <br>
 ## 🧪 Stack principal
