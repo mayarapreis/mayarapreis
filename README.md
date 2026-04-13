@@ -1,5 +1,5 @@
 
-## Olá!👋
+## 👋 Olá!
 Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
 <br>
 <br>
@@ -15,7 +15,8 @@ Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
 ![githubactions](https://img.shields.io/badge/-github%20actions-2088FF?logo=github%20actions&logoColor=white&style=for-the-badge)&nbsp;
 ![jmeter](https://img.shields.io/badge/-jmeter-D22128?logo=apache%20jmeter&logoColor=white&style=for-the-badge)&nbsp;
 ![k6](https://img.shields.io/badge/-K6-7D64FF?logo=k6&logoColor=white&style=for-the-badge)&nbsp;
-
+<br>
+<br>
 ## 🛠️ Ferramentas
 
 
@@ -35,7 +36,7 @@ Eu sou a Mayara, Analista de QA com foco em automação de testes.!&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 
 <br>
-
+<br>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
